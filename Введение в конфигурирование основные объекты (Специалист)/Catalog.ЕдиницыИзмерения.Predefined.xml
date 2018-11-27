@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.4">
+	<Item id="6bb8c0bb-cbf4-4e4b-8466-bef70e43b33e">
+		<Name>Грамм</Name>
+		<Code>000000001</Code>
+		<Description>Грамм</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="873431d6-abde-4fd5-b9eb-99b5ec667085">
+		<Name>Час</Name>
+		<Code>000000003</Code>
+		<Description>Час</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="67c4e62a-ce55-4371-8d39-5ef9f957fce2">
+		<Name>Штука</Name>
+		<Code>000000002</Code>
+		<Description>Штука</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>

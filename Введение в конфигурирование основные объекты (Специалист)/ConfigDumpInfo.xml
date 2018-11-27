@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Plain" version="2.4">
+	<ConfigVersions>
+		<Metadata name="Catalog.ЕдиницыИзмерения" id="d4f268b2-e58d-4405-9cb9-33e091948454" configVersion="217a9dad0518834bb12af706e3f97f8100000000"/>
+		<Metadata name="Catalog.ЕдиницыИзмерения.Predefined" id="d4f268b2-e58d-4405-9cb9-33e091948454.1c" configVersion="5922b7e9a4dfd64b95298c33c3da6fcc00000000"/>
+		<Metadata name="Catalog.Номенклатура" id="1b0ad018-a861-420e-991a-20c544c7de13" configVersion="32af14b2a8ec0041ac275585e2c74d2f00000000">
+			<Metadata name="Catalog.Номенклатура.Attribute.ОснЕдиницаИзмерения" id="2ed2fea6-8a2b-4b28-a1ba-626bd5e1b648"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.Услуга" id="6d272eeb-c320-45e2-a9cb-643b1bdb3cae"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.ЦенаПокупки" id="c34308ec-eb61-45ff-b641-c967c82c95b4"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.ЦенаПродажи" id="c93bb789-e22c-4843-87a0-6c3622f58980"/>
+		</Metadata>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаСписка" id="09662bd8-413a-4dee-b9d4-ee209af2255e" configVersion="5b76969d6ece8440b184fc839b59f29500000000"/>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаСписка.Form" id="09662bd8-413a-4dee-b9d4-ee209af2255e.0" configVersion="aa60dfa2c7e46e4583102d92e5c912be00000000"/>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента" id="c8a6c84f-2995-46c5-9b8b-e37142f3ab02" configVersion="76500ae4c6cf464b99cc6f797586d99d00000000"/>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента.Form" id="c8a6c84f-2995-46c5-9b8b-e37142f3ab02.0" configVersion="c042bfab4da10141a6e1bb8235ece62900000000"/>
+		<Metadata name="Catalog.Подразделения" id="1834f2c0-8f4c-4619-bb82-87c6ccf89fca" configVersion="7dd604e4fcc32340b636c5132cf9999100000000"/>
+		<Metadata name="Catalog.ФизическиеЛица" id="e214e6f8-0eb7-4d84-a82f-5793ea3fa0c5" configVersion="e6071f336e816945a496d1c460002c1800000000">
+			<Metadata name="Catalog.ФизическиеЛица.TabularSection.ТрудоваяДеятельность.Attribute.ОкончаниеРаботы" id="172bec86-5e72-41fa-a911-8fe99ef65b00"/>
+			<Metadata name="Catalog.ФизическиеЛица.Attribute.Имя" id="46be3eea-3076-476e-9de3-d5c0ea136da4"/>
+			<Metadata name="Catalog.ФизическиеЛица.Attribute.Отчество" id="814a3fc1-fcc8-4f66-be93-965a67e3b5ea"/>
+			<Metadata name="Catalog.ФизическиеЛица.Attribute.ДатаРождения" id="9ed30b56-050e-4646-bbf7-5585c8072af4"/>
+			<Metadata name="Catalog.ФизическиеЛица.TabularSection.ТрудоваяДеятельность" id="be99e9f6-7d04-4891-8bc4-cf5a23cf9e5f"/>
+			<Metadata name="Catalog.ФизическиеЛица.TabularSection.ТрудоваяДеятельность.Attribute.Должность" id="bed7b6f7-bf69-4e35-8f82-4065b8ed5919"/>
+			<Metadata name="Catalog.ФизическиеЛица.TabularSection.ТрудоваяДеятельность.Attribute.НачалоРаботы" id="bf58bc01-cdeb-46b2-bb88-f44e66a61bbe"/>
+			<Metadata name="Catalog.ФизическиеЛица.Attribute.Фамилия" id="c5bd0573-a7d9-4e9f-9ab0-710bf0e80451"/>
+			<Metadata name="Catalog.ФизическиеЛица.TabularSection.ТрудоваяДеятельность.Attribute.Организация" id="cf5d480f-6f20-44ee-96a3-677e2ec26819"/>
+		</Metadata>
+		<Metadata name="Catalog.ФизическиеЛица.Form.ФормаСписка" id="564f1d0c-4df6-4e16-a36b-06e5197cab1f" configVersion="c0a696c6edb0ba4395cdd942875ad01700000000"/>
+		<Metadata name="Catalog.ФизическиеЛица.Form.ФормаСписка.Form" id="564f1d0c-4df6-4e16-a36b-06e5197cab1f.0" configVersion="e496019c361b824992f549197ab6e73800000000"/>
+		<Metadata name="Catalog.ФизическиеЛица.Form.ФормаЭлемента" id="5c7eb419-d133-4869-b27d-d5c20bcbefb1" configVersion="b9f2ff5284e4324e94a7162c0983377500000000"/>
+		<Metadata name="Catalog.ФизическиеЛица.Form.ФормаЭлемента.Form" id="5c7eb419-d133-4869-b27d-d5c20bcbefb1.0" configVersion="dee688514add52438c2274d01951fe7b00000000"/>
+		<Metadata name="CommonForm.ФормаКонстант" id="49ca30e3-1800-42cd-ad5f-28e3288c5d01" configVersion="6e6226a0ebd07744911def92b62af45700000000"/>
+		<Metadata name="CommonForm.ФормаКонстант.Form" id="49ca30e3-1800-42cd-ad5f-28e3288c5d01.0" configVersion="b6747876a4b11b468beba068091f64fd00000000"/>
+		<Metadata name="Configuration.ОсновныеОбъекты" id="eebaaf0c-7736-4b14-ae63-16a52f8ba794" configVersion="13db79b1c13daa4daa882fd5399f69ee00000000"/>
+		<Metadata name="Constant.ДатаРегистрации" id="f382a4cd-018e-422d-af61-601366ec747b" configVersion="4dea776d82e29848a5dc57e1f9d2313f00000000"/>
+		<Metadata name="Constant.НаименованиеОрганизации" id="5b9b2d7b-5f40-4979-b694-47d63ec14aef" configVersion="ea1e463063b67a41ba6e1f542299550000000000"/>
+		<Metadata name="Constant.ОсновнаяЕдиницаУслуг" id="41a98ffa-fe92-4a3b-9f1a-c84b8a90aabd" configVersion="d43a2ccc041eae4cb4784914308b4f6700000000"/>
+		<Metadata name="Language.Русский" id="a5505393-a3cd-459e-9557-6f6115212ba7" configVersion="91a666948ffa1e499319ba3aa486749b00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
