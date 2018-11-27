@@ -11,8 +11,8 @@
 		</Metadata>
 		<Metadata name="Catalog.Номенклатура.Form.ФормаСписка" id="09662bd8-413a-4dee-b9d4-ee209af2255e" configVersion="5b76969d6ece8440b184fc839b59f29500000000"/>
 		<Metadata name="Catalog.Номенклатура.Form.ФормаСписка.Form" id="09662bd8-413a-4dee-b9d4-ee209af2255e.0" configVersion="aa60dfa2c7e46e4583102d92e5c912be00000000"/>
-		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента" id="c8a6c84f-2995-46c5-9b8b-e37142f3ab02" configVersion="76500ae4c6cf464b99cc6f797586d99d00000000"/>
-		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента.Form" id="c8a6c84f-2995-46c5-9b8b-e37142f3ab02.0" configVersion="c042bfab4da10141a6e1bb8235ece62900000000"/>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента" id="c8a6c84f-2995-46c5-9b8b-e37142f3ab02" configVersion="976e7ba4204a9646952539d61671794100000000"/>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента.Form" id="c8a6c84f-2995-46c5-9b8b-e37142f3ab02.0" configVersion="8a507c6af73a1d4cbddf89d94d374da300000000"/>
 		<Metadata name="Catalog.Подразделения" id="1834f2c0-8f4c-4619-bb82-87c6ccf89fca" configVersion="7dd604e4fcc32340b636c5132cf9999100000000"/>
 		<Metadata name="Catalog.ФизическиеЛица" id="e214e6f8-0eb7-4d84-a82f-5793ea3fa0c5" configVersion="e6071f336e816945a496d1c460002c1800000000">
 			<Metadata name="Catalog.ФизическиеЛица.TabularSection.ТрудоваяДеятельность.Attribute.ОкончаниеРаботы" id="172bec86-5e72-41fa-a911-8fe99ef65b00"/>
