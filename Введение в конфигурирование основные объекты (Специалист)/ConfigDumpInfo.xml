@@ -27,8 +27,8 @@
 		</Metadata>
 		<Metadata name="Catalog.ФизическиеЛица.Form.ФормаСписка" id="564f1d0c-4df6-4e16-a36b-06e5197cab1f" configVersion="c0a696c6edb0ba4395cdd942875ad01700000000"/>
 		<Metadata name="Catalog.ФизическиеЛица.Form.ФормаСписка.Form" id="564f1d0c-4df6-4e16-a36b-06e5197cab1f.0" configVersion="e496019c361b824992f549197ab6e73800000000"/>
-		<Metadata name="Catalog.ФизическиеЛица.Form.ФормаЭлемента" id="5c7eb419-d133-4869-b27d-d5c20bcbefb1" configVersion="b9f2ff5284e4324e94a7162c0983377500000000"/>
-		<Metadata name="Catalog.ФизическиеЛица.Form.ФормаЭлемента.Form" id="5c7eb419-d133-4869-b27d-d5c20bcbefb1.0" configVersion="dee688514add52438c2274d01951fe7b00000000"/>
+		<Metadata name="Catalog.ФизическиеЛица.Form.ФормаЭлемента" id="5c7eb419-d133-4869-b27d-d5c20bcbefb1" configVersion="6999d1ec6c2e494e9afcf7515ec47bcc00000000"/>
+		<Metadata name="Catalog.ФизическиеЛица.Form.ФормаЭлемента.Form" id="5c7eb419-d133-4869-b27d-d5c20bcbefb1.0" configVersion="108a88a6c775654da69339eb3bcea64400000000"/>
 		<Metadata name="CommonForm.ФормаКонстант" id="49ca30e3-1800-42cd-ad5f-28e3288c5d01" configVersion="6e6226a0ebd07744911def92b62af45700000000"/>
 		<Metadata name="CommonForm.ФормаКонстант.Form" id="49ca30e3-1800-42cd-ad5f-28e3288c5d01.0" configVersion="b6747876a4b11b468beba068091f64fd00000000"/>
 		<Metadata name="Configuration.ОсновныеОбъекты" id="eebaaf0c-7736-4b14-ae63-16a52f8ba794" configVersion="13db79b1c13daa4daa882fd5399f69ee00000000"/>
